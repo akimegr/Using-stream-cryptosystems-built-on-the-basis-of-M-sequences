@@ -1,0 +1,60 @@
+F:\УЧ\2 курс\ТИ\Лаб 2\TILab3\TILab3\obj\Debug\TILab3.csprojAssemblyReference.cache
+F:\УЧ\2 курс\ТИ\Лаб 2\TILab3\TILab3\obj\Debug\TILab3.Properties.Resources.resources
+F:\УЧ\2 курс\ТИ\Лаб 2\TILab3\TILab3\obj\Debug\TILab3.csproj.GenerateResource.cache
+F:\УЧ\2 курс\ТИ\Лаб 2\TILab3\TILab3\obj\Debug\TILab3.csproj.CoreCompileInputs.cache
+F:\УЧ\2 курс\ТИ\Лаб 2\TILab3\TILab3\bin\Debug\TILab3.exe.config
+F:\УЧ\2 курс\ТИ\Лаб 2\TILab3\TILab3\bin\Debug\TILab3.exe
+F:\УЧ\2 курс\ТИ\Лаб 2\TILab3\TILab3\bin\Debug\TILab3.pdb
+F:\УЧ\2 курс\ТИ\Лаб 2\TILab3\TILab3\obj\Debug\TILab3.Form1.resources
+F:\УЧ\2 курс\ТИ\Лаб 2\TILab3\TILab3\obj\Debug\TILab3.exe
+F:\УЧ\2 курс\ТИ\Лаб 2\TILab3\TILab3\obj\Debug\TILab3.pdb
+C:\gleb\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\bin\Debug\TILab3.exe.config
+C:\gleb\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\bin\Debug\TILab3.exe
+C:\gleb\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\bin\Debug\TILab3.pdb
+C:\gleb\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.csprojAssemblyReference.cache
+C:\gleb\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.Form1.resources
+C:\gleb\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.Properties.Resources.resources
+C:\gleb\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.csproj.GenerateResource.cache
+C:\gleb\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.csproj.CoreCompileInputs.cache
+C:\gleb\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.exe
+C:\gleb\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.pdb
+F:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\bin\Debug\TILab3.exe.config
+F:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\bin\Debug\TILab3.exe
+F:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\bin\Debug\TILab3.pdb
+F:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.csprojAssemblyReference.cache
+F:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.Form1.resources
+F:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.Properties.Resources.resources
+F:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.csproj.GenerateResource.cache
+F:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.csproj.CoreCompileInputs.cache
+F:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.exe
+F:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.pdb
+D:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\bin\Debug\TILab3.exe.config
+D:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\bin\Debug\TILab3.exe
+D:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\bin\Debug\TILab3.pdb
+D:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.csprojAssemblyReference.cache
+D:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.Form1.resources
+D:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.Properties.Resources.resources
+D:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.csproj.GenerateResource.cache
+D:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.csproj.CoreCompileInputs.cache
+D:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.exe
+D:\УЧ\2 курс\ТИ\Лаб 3\TILab3\TILab3\obj\Debug\TILab3.pdb
+C:\Users\KirBert\Desktop\Несенчук\Лаба 3\TILab3\TILab3\bin\Debug\TILab3.exe.config
+C:\Users\KirBert\Desktop\Несенчук\Лаба 3\TILab3\TILab3\bin\Debug\TILab3.exe
+C:\Users\KirBert\Desktop\Несенчук\Лаба 3\TILab3\TILab3\bin\Debug\TILab3.pdb
+C:\Users\KirBert\Desktop\Несенчук\Лаба 3\TILab3\TILab3\obj\Debug\TILab3.csproj.AssemblyReference.cache
+C:\Users\KirBert\Desktop\Несенчук\Лаба 3\TILab3\TILab3\obj\Debug\TILab3.Form1.resources
+C:\Users\KirBert\Desktop\Несенчук\Лаба 3\TILab3\TILab3\obj\Debug\TILab3.Properties.Resources.resources
+C:\Users\KirBert\Desktop\Несенчук\Лаба 3\TILab3\TILab3\obj\Debug\TILab3.csproj.GenerateResource.cache
+C:\Users\KirBert\Desktop\Несенчук\Лаба 3\TILab3\TILab3\obj\Debug\TILab3.csproj.CoreCompileInputs.cache
+C:\Users\KirBert\Desktop\Несенчук\Лаба 3\TILab3\TILab3\obj\Debug\TILab3.exe
+C:\Users\KirBert\Desktop\Несенчук\Лаба 3\TILab3\TILab3\obj\Debug\TILab3.pdb
+C:\Users\akime\OneDrive\Рабочий стол\TILab3\TILab3\bin\Debug\TILab3.exe.config
+C:\Users\akime\OneDrive\Рабочий стол\TILab3\TILab3\bin\Debug\TILab3.exe
+C:\Users\akime\OneDrive\Рабочий стол\TILab3\TILab3\bin\Debug\TILab3.pdb
+C:\Users\akime\OneDrive\Рабочий стол\TILab3\TILab3\obj\Debug\TILab3.csprojAssemblyReference.cache
+C:\Users\akime\OneDrive\Рабочий стол\TILab3\TILab3\obj\Debug\TILab3.Form1.resources
+C:\Users\akime\OneDrive\Рабочий стол\TILab3\TILab3\obj\Debug\TILab3.Properties.Resources.resources
+C:\Users\akime\OneDrive\Рабочий стол\TILab3\TILab3\obj\Debug\TILab3.csproj.GenerateResource.cache
+C:\Users\akime\OneDrive\Рабочий стол\TILab3\TILab3\obj\Debug\TILab3.csproj.CoreCompileInputs.cache
+C:\Users\akime\OneDrive\Рабочий стол\TILab3\TILab3\obj\Debug\TILab3.exe
+C:\Users\akime\OneDrive\Рабочий стол\TILab3\TILab3\obj\Debug\TILab3.pdb
